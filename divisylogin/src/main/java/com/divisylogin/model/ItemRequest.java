@@ -1,4 +1,4 @@
-package com.divisylogin;
+package com.divisylogin.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

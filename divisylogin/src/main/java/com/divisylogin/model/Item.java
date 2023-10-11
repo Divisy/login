@@ -1,4 +1,4 @@
-package com.divisylogin;
+package com.divisylogin.model;
 
 public class Item {
     private Long id;
